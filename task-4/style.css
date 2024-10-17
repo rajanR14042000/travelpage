@@ -1,0 +1,161 @@
+
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.bg-edit{
+    display: block;
+    position: fixed;
+    height: 600px;
+    width: 100%;
+}
+.content{
+    align-content: center;
+}
+.middle-edit{
+    height: 350px;
+    background-color:#f8f0f0;
+    margin-left:100px;
+    margin-right:100px;
+    margin-top: -70px;
+    border-radius: 20px;
+}
+.middle-edit button{
+    margin-left: 30px;
+    margin-top: 20px;
+    padding-left: 20px;
+}
+.inside-card {
+    margin-top: 30px;
+    /* height: 100px;
+    width: 300px; */
+    background-color: #ddffee;
+    border-radius: 10px;
+    border: 1px solid #454545;
+}
+.inside-card1{
+    margin-top: 30px;
+    /* height: 100px;
+    width: 300px; */
+    border: 1px solid #454545;
+    background-color:#b6eeee;
+    border-radius: 10px;
+    padding-left: 20px;
+}
+.inside-card2{
+    border: 1px solid #454545;
+    margin-top: 30px;
+    background-color:#FFEADD;
+    border-radius: 10px;
+    padding-left: 20px;
+
+}
+.inside-card3{
+    margin-top: 30px;
+    background-color:#FFEADD;
+    border: 1px solid #454545;
+    border-radius: 10px;
+    padding-left: 20px;
+
+}
+.card-edit{
+    max-height: 400px;
+    margin-top: 60px;
+}
+.card-text{
+    padding-top:10%;
+}
+.btn-edit{
+    background-color:white;
+    height: 90px;
+    width: 900px;
+    margin-left:70px;
+    margin-top: 40px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.btn-edit button{
+    border-color:#810CA8;
+}
+.card img{
+    opacity:1;
+    cursor: pointer;
+}
+.card img:hover{
+    opacity: 0.8;
+}
+
+.btn-edit2{
+    background-color:white;
+    height: 80px;
+    width: 900px;
+    margin-left:70px;
+    margin-top: 45px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.btn-edit2 button{
+    border-color:#810CA8;
+/* }
+.fot-edit{
+    height: 100px;
+    width:100%;
+    background-color: #FF95C5;
+    margin-left: -100px;
+    margin-right: 800px;
+
+} */
+
+/* .bg-body{
+    background-image: url(./img/bg-img-1.jpg);
+    background-size: cover;
+    height:700px;
+} */
+/* *{
+    margin: 0;
+    padding: 0;
+    
+}
+.nav-edit{
+    background-color:#610C9F;
+    color: white;
+}
+.body-edit{
+    height: 600px;
+    width: 100%;
+}
+.body-edit img{
+    height: 700px;
+    width: 100%;
+} */
+
+/* 
+body, html {
+    height: 100%;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    position: relative;
+    height: 650px;
+    width: 100%;
+    background-image: url(./img/bg-img-1.jpg); /* Path to your image */
+    /* background-size: cover;
+    background-position: center;
+}
+
+.overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.name {
+    font-size: 4rem;
+    color: white;
+    font-weight: bold;
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7); /* Adds a shadow for readability */
